@@ -15,3 +15,4 @@ npm start
 ```
 
 On Vercel: Import the repo, framework preset **Next.js**, no extra env vars required. The contact form validates server-side at `/api/contact`.
+Visit: https://mihir-shah-portfolio.vercel.app/
